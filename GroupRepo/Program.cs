@@ -6,7 +6,7 @@ namespace GroupRepo
     {
         static void Main(string[] args)
         {
-
+            string nev1, nev2;
         }
     }
 }
