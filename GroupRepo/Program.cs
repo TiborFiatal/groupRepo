@@ -6,7 +6,9 @@ namespace GroupRepo
     {
         static void Main(string[] args)
         {
-            string nev1, nev2;
+            string nev1;
+            string nev2 = "Bánki Bence";
+            string nev3;
         }
     }
 }
