@@ -8,7 +8,7 @@ namespace GroupRepo
         {
 
             string nev2 = "Bánki Bence";
-            string nev3;
+            string nev3 = "Csaba";
             string nev1 = "Tibi";
 
         }
